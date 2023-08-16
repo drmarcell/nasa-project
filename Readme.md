@@ -10,8 +10,6 @@ History page has green or red marks for all successful or unsuccessful rocket mi
 
 ## Usage
 
-Use the node package manager [npm](https://www.npmjs.com/) and within the root directory, run
+App needs the mongo db credentials as an environmental variable, so you can look the working app here:
+https://nasa-spacex.onrender.com/
 
-```bash
-npm run watch
-```
